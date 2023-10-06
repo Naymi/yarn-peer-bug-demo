@@ -1,0 +1,7 @@
+{
+  "name": "yarn-peer-demo",
+  "packageManager": "yarn@4.0.0-rc.53",
+  "workspaces": [
+    "packages/*"
+  ]
+}
